@@ -60,6 +60,7 @@
     <Compile Include="KlasseOhneSinn.cs" />
     <Compile Include="ServiceImplementations\PartnerUtilDummy.cs" />
     <Compile Include="Services\IPartnerUtil.cs" />
+    <Compile Include="ViewModels\Class1.cs" />
     <Compile Include="ViewModels\MainWindowViewModel.cs" />
     <Compile Include="ViewModels\ViewModelBase.cs" />
     <Page Include="MainWindow.xaml">
